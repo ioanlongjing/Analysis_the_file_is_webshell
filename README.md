@@ -7,3 +7,5 @@
     No Revirew 那個, 應該是原作者最新的版本
 
     還沒認真看過, 不過應該是多了 scp 的功能
+    
+    原作者應該是這位 : https://github.com/loveshell
